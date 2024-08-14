@@ -1,7 +1,5 @@
 # ProgDiffusion: Progressively Self-encoding Diffusion Models
 
-This repository is official PyTorch implementation of [PDAE](https://arxiv.org/abs/2212.12990) (NeurIPS 2022).
-
 
 
 ## Dataset
