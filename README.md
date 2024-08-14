@@ -1,6 +1,6 @@
 # ProgDiffusion: Progressively Self-encoding Diffusion Models
 
-
+The official one.
 
 ## Dataset
 
